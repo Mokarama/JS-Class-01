@@ -22,18 +22,28 @@
 // }
 
 
-let y=0;
-while(y<=10){
-    y++;
+// let y=0;
+// while(y<=10){
+//     y++;
 
-let termsOfNum1=10*y;
-console.log(termsOfNum1)
-}
+// let termsOfNum1=10*y;
+// console.log(termsOfNum1)
+// }
 
 
-//
-let n=5;
-for(let i=1; i<=n; i++){
- let str="*";
- console.log(str.repeat(i))
-}
+
+// let n=5;
+// for(let i=1; i<=n; i++){
+//  let str="*";
+//  console.log(str.repeat(i));
+// }
+
+
+// let sum=0;
+// for(let i=1; i<=50; i++){
+    
+//     console.log(sum +sum)
+// }
+
+
+
