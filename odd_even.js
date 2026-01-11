@@ -33,15 +33,25 @@ let isPrime=true;
 
 function primeNum(num){
  for(let i=2; i<num; i++){
-    if(num%i===!0){
+    if(num%i===0){
         isPrime=false;
     }
     if(isPrime){
-        return "Prime number"
+        return "Prime number";
     }
     else{
-        return "Not a prime Number"
+        return "Not a prime Number";
     }
  }
 }
-console.log(primeNum(6))
+console.log(primeNum(10));
+
+
+// --------
+
+const floors=5;
+const firstWidth=4;
+const widthLess=0.5;
+
+
+
