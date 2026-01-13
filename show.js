@@ -12,4 +12,4 @@ function addToCart(products){
 };
 
 addToCart(products[2]);
-console.log(cart)
+console.log(cart);
